@@ -21,4 +21,4 @@ git commit -m "Publish book"
 
 git push -u origin gh-pages
 
-git checkout .
+git checkout master
