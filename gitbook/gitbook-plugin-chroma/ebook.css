@@ -1,0 +1,246 @@
+span.lineno, span.ln {
+    color: #aaa;
+    padding-right: 1em;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+pre>code>div.chroma>pre, pre>code>div.highlight>pre.chroma {
+    line-height: 1.2;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.markdown-section pre, section pre {
+    padding-bottom: 0;
+}
+
+/* Chroma Style based on Pygments vs style*/
+
+.chroma .hll {
+    background-color: #ffffcc
+}
+
+.chroma {
+    background: #ffffff;
+}
+
+.chroma .c {
+    color: #008000
+}
+
+/* Comment */
+
+.chroma .err {
+    border: 1px solid #FF0000
+}
+
+/* Error */
+
+.chroma .k {
+    color: #0000ff
+}
+
+/* Keyword */
+
+.chroma .ch {
+    color: #008000
+}
+
+/* Comment.Hashbang */
+
+.chroma .cm {
+    color: #008000
+}
+
+/* Comment.Multiline */
+
+.chroma .cp {
+    color: #0000ff
+}
+
+/* Comment.Preproc */
+
+.chroma .cpf {
+    color: #008000
+}
+
+/* Comment.PreprocFile */
+
+.chroma .c1 {
+    color: #008000
+}
+
+/* Comment.Single */
+
+.chroma .cs {
+    color: #008000
+}
+
+/* Comment.Special */
+
+.chroma .ge {
+    font-style: italic
+}
+
+/* Generic.Emph */
+
+.chroma .gh {
+    font-weight: bold
+}
+
+/* Generic.Heading */
+
+.chroma .gp {
+    font-weight: bold
+}
+
+/* Generic.Prompt */
+
+.chroma .gs {
+    font-weight: bold
+}
+
+/* Generic.Strong */
+
+.chroma .gu {
+    font-weight: bold
+}
+
+/* Generic.Subheading */
+
+.chroma .kc {
+    color: #0000ff
+}
+
+/* Keyword.Constant */
+
+.chroma .kd {
+    color: #0000ff
+}
+
+/* Keyword.Declaration */
+
+.chroma .kn {
+    color: #0000ff
+}
+
+/* Keyword.Namespace */
+
+.chroma .kp {
+    color: #0000ff
+}
+
+/* Keyword.Pseudo */
+
+.chroma .kr {
+    color: #0000ff
+}
+
+/* Keyword.Reserved */
+
+.chroma .kt {
+    color: #2b91af
+}
+
+/* Keyword.Type */
+
+.chroma .s {
+    color: #a31515
+}
+
+/* Literal.String */
+
+.chroma .nc {
+    color: #2b91af
+}
+
+/* Name.Class */
+
+.chroma .ow {
+    color: #0000ff
+}
+
+/* Operator.Word */
+
+.chroma .sa {
+    color: #a31515
+}
+
+/* Literal.String.Affix */
+
+.chroma .sb {
+    color: #a31515
+}
+
+/* Literal.String.Backtick */
+
+.chroma .sc {
+    color: #a31515
+}
+
+/* Literal.String.Char */
+
+.chroma .dl {
+    color: #a31515
+}
+
+/* Literal.String.Delimiter */
+
+.chroma .sd {
+    color: #a31515
+}
+
+/* Literal.String.Doc */
+
+.chroma .s2 {
+    color: #a31515
+}
+
+/* Literal.String.Double */
+
+.chroma .se {
+    color: #a31515
+}
+
+/* Literal.String.Escape */
+
+.chroma .sh {
+    color: #a31515
+}
+
+/* Literal.String.Heredoc */
+
+.chroma .si {
+    color: #a31515
+}
+
+/* Literal.String.Interpol */
+
+.chroma .sx {
+    color: #a31515
+}
+
+/* Literal.String.Other */
+
+.chroma .sr {
+    color: #a31515
+}
+
+/* Literal.String.Regex */
+
+.chroma .s1 {
+    color: #a31515
+}
+
+/* Literal.String.Single */
+
+.chroma .ss {
+    color: #a31515
+}
+
+/* Literal.String.Symbol */
