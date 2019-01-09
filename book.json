@@ -1,0 +1,44 @@
+{
+    "root": "",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md",
+        "glossary": "GLOSSARY.md"
+    },
+    "title": "记录",
+    "description": "记录我生活的那些人与事儿",
+    "author": "吴燮,",
+    "isbn": "",
+    "language": "zh",
+    "direction": "ltr",
+    "gitbook": ">= 3.0.0",
+    "plugins": [
+        "theme-api",
+        "chroma",
+        "qrcode-list",
+        "exercises",
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "theme-api": {
+            "theme": "dark"
+        },
+        "disqus": {
+            "shortName": "吴燮,"
+        },
+        "qrcode-list": {
+            "title": "打赏&联系",
+            "description": "如果您感觉有收获，欢迎给我打赏，以激励我输出更多的优质内容。",
+            "except": [
+                "自述"
+            ],
+            "lists": [
+                {
+                    "src": "/images/2038064998.png",
+                    "content": "支付宝",
+                    "alt": "支付宝"
+                }
+            ]
+        }
+    }
+}

@@ -1,2 +1,3 @@
-*~
+# gitbook build
 _book
+node_modules
